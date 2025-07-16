@@ -13,7 +13,9 @@
 <h1 align="center">Olá, eu sou a Giovanna 👋</h1>
 
 <div align="center">
+  
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=6DB33F&background=0F0F0F00&center=true&vCenter=true&width=600&height=60&lines=Desenvolvedora+Web+Full+Stack;Sempre+em+busca+de+evolução+🚀)
+
 </div>
 
 ###
