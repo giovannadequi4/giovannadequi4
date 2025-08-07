@@ -41,7 +41,7 @@ Desenvolvedora Web focada em backend com PHP e Java Spring Boot e frontend com R
 
 <p align="left">
   <strong>IFSul</strong><br />
-  Análise e Desenvolvimento de Sistemas — Cursando<br />
+  Graduação em Análise e Desenvolvimento de Sistemas — Cursando<br />
   <em>2024 – Atual</em>
 </p>
 
