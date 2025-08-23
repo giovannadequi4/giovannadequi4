@@ -23,10 +23,10 @@
 <h3 align="left">👩‍💻 About Me</h3>
 
 <p align="left">
-Full Stack Developer specializing in backend with PHP and Java Spring Boot, and frontend with React.<br><br>
-- 💼 Professional experience developing systems for the healthcare sector (health plan management) and manufacturing industry<br>
+Full Stack Developer specializing in backend (PHP and Java Spring Boot) and frontend (React)<br><br>
+- 💼 Professional experience building systems for the healthcare sector (health plan management) and the manufacturing industry<br>
 - 🌱 Currently exploring Machine Learning and Software Architecture<br>
-- ⚡ In my free time, I love practicing sports, studying foreign languages, reading, and enjoying a good coffee ☕
+- ⚡ Outside of work, I enjoy watching sports, exploring nature, studying foreign languages, reading, and sipping a good coffee ☕
 </p>
 
 ###
