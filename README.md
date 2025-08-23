@@ -10,44 +10,44 @@
 
 ###
 
-<h1 align="center">Olá, eu sou a Giovanna 👋</h1>
+<h1 align="center">Hi, I'm Giovanna 👋</h1>
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=6DB33F&background=0F0F0F00&center=true&vCenter=true&width=600&height=60&lines=Desenvolvedora+Web+Full+Stack;Sempre+em+busca+de+evolução+🚀)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=6DB33F&background=0F0F0F00&center=true&vCenter=true&width=600&height=60&lines=Turning+ideas+into+robust+software;Delivering+high-quality+systems+every+day+🚀)
 
 </div>
 
 ###
 
-<h3 align="left">👩‍💻 Sobre mim</h3>
+<h3 align="left">👩‍💻 About Me</h3>
 
 <p align="left">
-Desenvolvedora Web focada em backend com PHP e Java Spring Boot e frontend com React.<br><br>
-- 🔭 Atualmente trabalhando em sistemas robustos para gestão<br>
-- 🌱 Aprendendo mais sobre Machine Learning e Arquitetura de Software<br>
-- ⚡ Nas horas vagas, adoro praticar esportes, estudar línguas estrangeiras, ler e curtir um café ☕
+Full Stack Developer specializing in backend with PHP and Java Spring Boot, and frontend with React.<br><br>
+- 💼 Professional experience developing systems for the healthcare sector (health plan management) and manufacturing industry<br>
+- 🌱 Currently exploring Machine Learning and Software Architecture<br>
+- ⚡ In my free time, I love practicing sports, studying foreign languages, reading, and enjoying a good coffee ☕
 </p>
 
 ###
 
-<h3 align="left">🎓 Formação Acadêmica</h3>
+<h3 align="left">🎓 Education</h3>
 
 <p align="left">
   <strong>IFRS</strong><br />
-  Técnico em Desenvolvimento de Sistemas — Concluído<br />
+  Technical Degree in Systems Development — Completed<br />
   <em>2020 – 2023</em>
 </p>
 
 <p align="left">
   <strong>IFSul</strong><br />
-  Graduação em Análise e Desenvolvimento de Sistemas — Cursando<br />
-  <em>2024 – Atual</em>
+  Degree in Systems Analysis and Development — Currently pursuing<br />
+  <em>2024 – Present</em>
 </p>
 
 ###
 
-<h3 align="left">🛠 Linguagens e Ferramentas</h3>
+<h3 align="left">🛠 Languages & Tools</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
@@ -64,5 +64,3 @@ Desenvolvedora Web focada em backend com PHP e Java Spring Boot e frontend com R
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo" />
 </div>
-
-
