@@ -1,13 +1,13 @@
 <div align="center">
-  <a href="https://linkedin.com/in/giovanna-dequi">
     <img height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MmY3NWlqaXNoN2RldzI5cnphcWsyMGo5am5wMDY5ZGc5Z202MWg2eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Npdl9kOaKFJHuRCBGx/giphy.gif"  />
-  </a>
 </div>
 
 ###
 
 <div align="center">
+  <a href="https://linkedin.com/in/giovanna-dequi">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
  </div>
 
 ###
