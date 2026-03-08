@@ -25,7 +25,7 @@
 <h3 align="left">👩‍💻 About Me</h3>
 
 <p align="left">
-Full Stack Developer specializing in backend (Java Spring and PHP) and frontend (React)<br><br>
+Full Stack Developer specializing in backend (Java Spring) and frontend (React)<br><br>
 - 💻 Developed personal projects, exploring logic and system design<br>
 - 💼 Professional experience building systems for the logistic, sale and healthcare sectors and the manufacturing industry<br>
 - 🌱 Currently exploring Machine Learning and Software Architecture<br>
@@ -53,10 +53,6 @@ Full Stack Developer specializing in backend (Java Spring and PHP) and frontend 
 <h3 align="left">🛠 Languages & Tools</h3>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring boot logo" />
@@ -66,4 +62,8 @@ Full Stack Developer specializing in backend (Java Spring and PHP) and frontend 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
 </div>
