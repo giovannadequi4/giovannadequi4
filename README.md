@@ -44,14 +44,14 @@ Backend-focused Developer (Java + Spring) with experience in real-world systems 
   → Serverless application deployed on Vercel for public use  
   → Movie recommendation system using generative AI with validation via TMDB API  
   → Designed with separation of concerns and robust error handling  
-  🔗 GitHub: https://github.com/giovannadequi4/cinemood  
-  🌐 Live: https://cinemood-ai.vercel.app  
+  [🔗 Repository](https://github.com/giovannadequi4/cinemood)  
+[🌐 Live Demo](https://cinemood-ai.vercel.app)
 
 - Clothing Store System (End-to-End)  
   PHP + MySQL  
   → Full-stack application with product management, user flow and persistence  
   → Covers backend logic, database modeling and frontend integration  
-  🔗 GitHub: https://github.com/giovannadequi4/sale-sync
+  [🔗 Read more](https://github.com/giovannadequi4/sales-sync)  
 
 ###
 
