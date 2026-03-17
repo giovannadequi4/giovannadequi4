@@ -25,12 +25,33 @@
 <h3 align="left">👩‍💻 About Me</h3>
 
 <p align="left">
-Full Stack Developer specializing in backend (Java Spring) and frontend (React)<br><br>
-- 💻 Developed personal projects, exploring logic and system design<br>
-- 💼 Professional experience building systems for the logistic, sale and healthcare sectors and the manufacturing industry<br>
-- 🌱 Currently exploring Machine Learning and Software Architecture<br>
-- ⚡ Outside of work, I enjoy watching sports, exploring nature, studying foreign languages, reading and sipping a good coffee ☕
+Backend-focused Developer (Java + Spring) with experience in real-world systems and Machine Learning applied to industrial prediction.<br><br>
+- Built full-stack applications using Spring Boot and React, focusing on performance and clean architecture<br>
+- Contributed to systems in logistics, healthcare and manufacturing, working with real business rules and data flows<br>
+- Currently exploring Machine Learning and Software Architecture<br>
+- Outside of work, I enjoy exploring nature, reading and sipping a good coffee ☕
 </p>
+
+<h3 align="left">⚡ Featured Projects</h3>
+
+- Machine Learning for Industrial Failure Prediction (In Progress)  
+  Spring + React + Python (scikit-learn)  
+→ Comparative study of ML models (Random Forest, SVM, Neural Networks) for industrial failure prediction using the AI4I dataset  
+→ Evaluation based on performance metrics (accuracy, precision, recall, F1-score) and real-time data simulation
+
+- Cinemood – Movie Recommendation App  
+  Node.js + Gemini API + TMDB API  
+  → Serverless application deployed on Vercel for public use  
+  → Movie recommendation system using generative AI with validation via TMDB API  
+  → Designed with separation of concerns and robust error handling  
+  🔗 GitHub: https://github.com/giovannadequi4/cinemood  
+  🌐 Live: https://cinemood-ai.vercel.app  
+
+- Clothing Store System (End-to-End)  
+  PHP + MySQL  
+  → Full-stack application with product management, user flow and persistence  
+  → Covers backend logic, database modeling and frontend integration  
+  🔗 GitHub: https://github.com/giovannadequi4/sale-sync
 
 ###
 
@@ -50,7 +71,7 @@ Full Stack Developer specializing in backend (Java Spring) and frontend (React)<
 
 ###
 
-<h3 align="left">🛠 Languages & Tools</h3>
+<h3 align="left">💻 Languages & Tools</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
