@@ -51,7 +51,7 @@ Backend-focused Developer (Java + Spring) with experience in real-world systems 
   PHP + MySQL  
   → Full-stack application with product management, user flow and persistence  
   → Covers backend logic, database modeling and frontend integration  
-  [🔗 Read more](https://github.com/giovannadequi4/sales-sync)  
+  [🔗 Read more](https://github.com/giovannadequi4/sales-sync-project)  
 
 ###
 
