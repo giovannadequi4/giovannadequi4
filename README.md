@@ -19,6 +19,19 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=6DB33F&background=0F0F0F00&center=true&vCenter=true&width=600&height=60&lines=Turning+ideas+into+robust+software;Delivering+high-quality+systems+every+day+🚀)
 
 </div>
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=giovannadequi4&show_icons=true&theme=dark&hide_border=true)
+
+</div>
 
 ###
 
@@ -28,16 +41,20 @@
 Backend-focused Developer (Java + Spring) with experience in real-world systems and Machine Learning applied to industrial prediction.<br><br>
 - Built full-stack applications using Spring Boot and React, focusing on performance and clean architecture<br>
 - Contributed to systems in logistics, healthcare and manufacturing, working with real business rules and data flows<br>
-- Currently exploring Machine Learning and Software Architecture<br>
+- Currently improving skills in software architecture and backend design<br>
 - Outside of work, I enjoy exploring nature, reading and sipping a good coffee ☕
 </p>
 
 <h3 align="left">⚡ Featured Projects</h3>
 
-- Machine Learning for Industrial Failure Prediction (In Progress)  
-  Spring + React + Python (scikit-learn)  
-→ Comparative study of ML models (Random Forest, SVM, Neural Networks) for industrial failure prediction using the AI4I dataset  
-→ Evaluation based on performance metrics (accuracy, precision, recall, F1-score) and real-time data simulation
+ - Coupon API – RESTful Service  
+  Java + Spring Boot  
+  → Backend API with domain-driven business rules and layered architecture
+  → Soft delete implementation with state control and data integrity  
+  → Centralized error handling with standardized responses  
+  → Unit and integration tests with JUnit, Mockito and MockMvc  
+  → API documentation with Swagger/OpenAPI and Docker containerization  
+  [🔗 Repository](https://github.com/giovannadequi4/coupon)
 
 - Cinemood – Movie Recommendation App  
   Node.js + Gemini API + TMDB API  
@@ -46,12 +63,6 @@ Backend-focused Developer (Java + Spring) with experience in real-world systems 
   → Designed with separation of concerns and robust error handling  
   [🔗 Repository](https://github.com/giovannadequi4/cinemood)  
 [🌐 Live Demo](https://cinemood-ai.vercel.app)
-
-- Clothing Store System (End-to-End)  
-  PHP + MySQL  
-  → Full-stack application with product management, user flow and persistence  
-  → Covers backend logic, database modeling and frontend integration  
-  [🔗 Read more](https://github.com/giovannadequi4/sales-sync-project)  
 
 ###
 
@@ -68,23 +79,3 @@ Backend-focused Developer (Java + Spring) with experience in real-world systems 
   Degree in Systems Analysis and Development — Currently pursuing<br />
   <em>2024 – Present</em>
 </p>
-
-###
-
-<h3 align="left">💻 Languages & Tools</h3>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring boot logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-</div>
